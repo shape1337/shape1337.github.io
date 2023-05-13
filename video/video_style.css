@@ -1,0 +1,119 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.logotip_s{
+    text-align: center;
+    /* position: relative; */
+    background-image: linear-gradient(to right, blue,white,violet);
+}
+.header_title_with_logo{
+    color: black;
+    text-align: center;
+    position: relative;
+    background-image: linear-gradient(to right, blue,white,violet);
+}
+.head_img{
+    height: 200px;
+    width: 950px;
+    background: url("https://proprikol.ru/wp-content/uploads/2020/11/kartinki-puteshestviya-2.jpg") no-repeat center center;
+    background-size:cover;
+}
+
+.krim{
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 400px; */
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.ktim0{
+    border: 3px solid blueviolet;
+    margin: 5px;
+
+}
+.ktim1{
+    border: 3px solid blueviolet;
+    margin: 5px;
+}
+
+.ktim2{
+    border: 3px solid blueviolet;
+    margin: 5px;
+}
+.ktim3{
+    border: 3px solid blueviolet;
+    margin: 5px;
+}
+.ktim4{
+    border: 3px solid blueviolet;
+    margin: 5px;
+}
+.ktim5{
+    border: 3px solid blueviolet;
+    margin: 5px;
+}
+
+.aa{
+    height: 200px;
+    width: 950px;
+    background: url("https://rg.ru/uploads/images/184/50/68/30p_lastgnezd.gif") no-repeat center center;
+    background-size:cover;
+}
+
+.logo{
+    height: 38px;
+    width: 50px;
+    background: url("https://crimea24.info/wp-content/uploads/2011/04/Crimea-logo-1.jpg") no-repeat center center;
+    background-size:cover; 
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.one_hotel_boom1{
+    width: 410;
+    height: 250;
+    background: url("https://sandbay.ru/upload/medialibrary/34d/ivashd974gp8lu01i60mnlh2hfh2hgcq.JPG") no-repeat center center;
+    background-size:cover; 
+    float: left;
+    margin: 5px;
+    display: flex;
+}
+
+.hotel{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.hotel_photos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.one_hotel_boom1{
+    border: 3px solid blueviolet;
+   margin: 5px;
+}
+
+.one_hotel_boom2{
+    border: 3px solid blueviolet;
+   margin: 5px;
+}
+.byxta{
+    color: white;
+}
+
+.brist-name{
+    color: white;
+    margin-top: 100px;
+}
+
+.brist{
+    color: white;
+}
