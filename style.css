@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(1, 75, 11);
+}
+
+.logo{
+    background-image: linear-gradient(to right, rgb(0, 255, 0),rgb(93, 93, 255),violet);
+    color: black;
+    text-align: center;
+}
+
+.link-text{
+    color: rgba(255, 0, 0, 0.863);
+   background: linear-gradient(88.69deg, blue, rgb(189, 105, 189)); 
+   -webkit-background-clip: text; 
+   -webkit-text-fill-color: transparent; 
+   background-clip: text; 
+   text-fill-color: transparent;
+}
+
+.text-big{
+    color: wheat;
+    font-weight: bold;
+    background-color: black;
+}
+
+.text1{
+    background-image: linear-gradient(to right, rgb(0, 255, 0),rgb(93, 93, 255),violet);
+
+    font-size: 20px;
+    font-weight: 600;
+}
